@@ -13,5 +13,7 @@ namespace Business.Constants
         public static string Listed = "Listelendi";
         public static string NotDelivered = "Bu araba henüz teslim edilmedi";
         public static string RentalAdded = "Araba kiralanması eklendi";
+
+        public static string CarImageLımıtError = "Bir arabanın en fazla 5 resmi olabilir.";
     }
 }
